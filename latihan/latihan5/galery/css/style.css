@@ -127,7 +127,7 @@
   .prev {
     width: 128px;
     height: 128px;
-    background-image: url(../img/arrow/arrow-right-3098.png);
+    background-image: url(../img/arrow/arrow-right.png);
     position: absolute;
     text-indent: -9999px;
     top: 42%;
@@ -136,7 +136,7 @@
   }
   
   .prev {
-    background-image: url(../img/arrow/arrow-left-3099.png);
+    background-image: url(../img/arrow/arrow-left.png);
     margin-left: -190px;
   }
   
